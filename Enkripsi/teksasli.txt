@@ -1,0 +1,66 @@
+#Teks 1
+Apa enaknya menggunakan Linux?
+Beda dengan penjawab lainnya, saya pakai linux untuk keseharian. bukan developer, bukan programmer, bener-bener keseharian. Sudah lebih dari 6 tahun (sejak sma). Dan hobi pindah-pindah distro linux (ganti-ganti OS).
+Saya pakai linux di hp saya: Android Marshmallow (iya ngga saya update, haha).
+Di laptop, sekarang saya pakai Linux dengan distro Ubuntu 20.04 LTS.
+Kenapa? karena semakin kesini para pengembang OS berbasis linux semakin inovatif, memenuhi keperluan user, dan semakin mudah digunakan. Udah beda banget dengan orang-orang dulu yang bilang "linux susah, ribet."
+saya katakan, install ubuntu di laptop lebih mudah daripada install windows. serius dah. asalkan jangan takut belajar, itu aja.
+Saya ngga ngerti command-command di terminal. apa yang ada disediakan di menu itu mencukupi. Linux biasanya membedakan antara user yang pemahamannya tinggi dan kebutuhannya aneh-aneh (sehingga kalau mau ikut campur ke dalam sistem lebih dalam, harus via terminal beserta command2 CLI), sedangkan user yang awam sama sistem, cuma dikasih menu sederhana dan mudah sesuai kebutuhannya.
+
+Kenapa linux, karena beberapa hal:
+Fleksibel dengan kekuatan laptop. Kalau laptop speknya ngga gahar-gahar amat, atau malah lemot, ada varian/distro linux yang ringan sehingga user tetap terpenuhi kebutuhannya. Ngga perlu lah maksain netbook kecil lemot dijejelin windows 10 yang klik start nunggu beberapa detik. Pakai aja Ubuntu atau Mint dengan DE (desktop environment) LXDE, XFCE, atau Cinnamon. Tampilannya standar, tapi ringan dan tetep mutakhir. Mau yang dipoles abis? pakai DE GNOME atau KDE. (Screenshot saya itu Ubuntu dengan GNOME).
+Gratis. Komunitas pengembang linux di dunia punya satu prinsip: Sistem operasi itu hak semua orang. Semua orang harus bisa punya. Kemudian, semua orang juga punya hak atas komputernya mau diapakan, sehingga linux memberikan kebebasan komputernya mau diutak-atik bagaimanapun bisa. Tapi ya, gratis cuy, dengan penggunaan yang mudah, tampilan bagus, dan memenuhi kebutuhan, kenapa harus beli sama microsoft?
+Memenuhi kebutuhan. Bagi saya, linux memang bukan gudangnya aplikasi kayak windows yang semua ada. tapi apa yang saya perlukan mencukupi di linux. Apa sih keperluan saya sehari-hari? Ngetik? ada OnlyOffice, WPS Office. Edit gambar raster dan vektor? GIMP, Inkscape. Denger MP3 ya jelas bisa lah. Nonton? VLC. Browsing? Chrome & FIrefox. Game? Steam. Kecuali kalau keperluan agan itu pro banget, kayak Photoshop, Adobe Premiere, DaVinci Resolve, yang emang belum ada tandingannya, dan emang agan rela banget keluar duit banyak buat software yang profesional tsb. Haha buat saya sih GIMP sudah cukup.
+Cloud computing. Tanpa sadar, makin kesini semakin banyak program yang dipakai itu berbasis cloud. Bukan semata-mata program offline yang diinstall dan kita pakai lokal. Tapi berbasis cloud yang program tsb bisa sinkron dan dipakai di mana-mana. Katakanlah saya penulis, saya bisa pakai Google Docs di hp dan di laptop. Save di google drive. Nonton? Netflix, youtube. Editing? Canva, Adobe Spark. Conference, ZOOM. Ini program-program yang di linux pun tersedia, atau bahkan bermodal browser semacam chrome atau firefox aja mencukupi. Tanpa disadari, banyak dari kita yang sebenernya ngga butuh-butuh banget sama windows.
+Aman bos. Jarang kedengeran atau bahkan ngga ada virus-virusan. karena di sini untuk bisa jalanin program, bahkan mau install aja, dia izin administrator dulu minta password. jadi mungkin agak sulit buat virus berkeliaran di sini.
+Dipaksa belajar dan kenal sama laptop sendiri. Linux itu ngga sebagaimana windows yang kita sudah terbiasa dari kecil. Maka ketika install OS berbasis linux, maka di sini kita belajar dan jadi kenal bagaimana laptop ini berjalan.
+6 tahun lalu, saya pakai Linux Mint KDE versi 14 , dan itu masih sulit. Driver masalah, software sedikit. Cukup berat dan akhirnya tidak terpakai/jarang. Tapi sekarang saya pakai Ubuntu 20, perkembangannya luar biasa dan serba mudah.
+Instal cuma 5–10 menit, bisa dual-boot (Windows-Linux), setelah instal: siap digunakan (semua app dasar sudah ada). Perlu tambahan aplikasi: buka Ubuntu/Software Center (semacam playstore), install.
+Dan grup-grup pengguna linux di facebook indonesia mulai berkembang sehingga kalau ada kebingungan dan bertanya, bisa banyak yang bantu.
+
+Oh iya, satu yang surprising, ketika saya baru instal ubuntu, saya diminta untuk login akun google (opsional). Ternyata, sekarang google drive terintegrasi di file manager yang dipakai di ubuntu. Demikian pula kalender, dan to do list.
+Jangan takut, selamat mencoba!
+Insyaallah mudah kok. Bahkan saya sendiri ketika pakai windows (di kantor) emosi, lebih enak ubuntu sekarang.
+
+Edit 2023:
+Kalau sekarang, kebetulan laptop lagi bermasalah (lcd) harus connect monitor terus, jadi saya summon kembali netbook jadul saya tahun 2015 (Asus X200M, 11" inch, intel atom, 2GB ram) untuk kerjaan ringan dan mobile.
+Saya tertantang untuk mencari OS yang tepat dan akhirnya saya pakai ChromeOS Flex. Meski dengan OS cakep dan kekinian, os ini lebih ringan dari distro-distro linux ringan yang pernah saya coba. Benar-benar satsetsatset. Bingung kenapa laptop yang hampir ga ada harapan malah jadi sekenceng ini.
+Apa enaknya menggunakan Linux?
+Bagi teman-teman yang kerjaannya kebanyakan cuma via browser aja, cloud computing, ini ChromeOS bisa dicoba. Sebagaimana tadi saya bilang, karena kebutuhan basic saya terpenuhi dari environment Google, jadi ini solusi buat saya. Bahkan, penggunaannya lebih mudah daripada kebanyakan distro linux.
+
+Edit 2024:
+
+Saya sekarang pakai Manjaro i3wm. It's just simple, super lightweight, and beautiful.
+Dengan OS modern, up to date, dan kencang (karena minimalis i3wm), tapi juga full feature (karena Manjaro yang Arch-based).
+Oh iya, saya juga install Linux Mint ke beberapa laptop kantor yang tergolong kentang. Awalnya Windows yang super lelet, ganti ke LM jadi wushwush. Sangat lumayan buat temen2 yang laptop kantor cuma buat browsing dan ngeprint laporan.
+
+#Teks 2
+Apa penyakit yang paling mengerikan di dunia ini?
+Apa penyakit yang paling mengerikan di dunia ini? Tergantung dari standar pribadi kita menentukan seperti apa penyakit yang dianggap mengerikan. Apa yang mengerikan bagi saya belum tentu mengerikan bagi orang lain.
+Nah, tentu saja saya memiliki kriteria pribadi tentang penyakit yang saya anggap mengerikan. Bagi saya, penyakit yang memberikan banyak kesulitan dan penderitaan bagi kehidupan penderitanya adalah penyakit yang lumayan mengerikan. Jadi, penyakit apakah yang mengerikan bagi saya? Nama penyakit tersebut adalah…
+Fibrodysplasia Ossificans Progressiva (FOP)
+Penyakit ini memiliki kondisi di mana jaringan ikat pada tubuh akan berganti menjadi tulang. Penulangan jaringan ikat dapat terjadi ketika tubuh berusaha untuk menutup luka pada jaringan ikat, namun ketimbang menumbuhkan jaringan ikat yang sama, yang tumbuh malah tulang. Terkadang proses penulangan terjadi dengan sendirinya tanpa perlu ada luka terlebih dahulu.
+Sebelum kalian berpikir kalau kondisi tersebut keren karena dapat menumbuhkan perisai untuk tubuh, tulang yang tumbuh bukan melapisi jaringan ikat, namun menggantinya.
+Ingat, jaringan ikat adalah jaringan yang dapat ditemukan di seluruh tubuh. Contoh dari jaringan ikat adalah seperti jaringan darah, otot, tendon, lemak, ligamen, dan tentu saja tulang. Penyakit ini utamanya menyerang jaringan otot, tendon, dan ligamen. Otot adalah jaringan yang berfungsi untuk menggerakkan tubuh, tendon berfungsi untuk menghubungkan otot dengan tulang, dan ligamen adalah jaringan yang menghubungkan tulang dengan tulang.
+Jadi kalau ketiga jaringan tersebut digantikan oleh tulang, dapat terbayang kalau persendian tubuh tiba-tiba menjadi satu tulang yang utuh.
+Bayangkan jika tulang belulang tumbuh di tempat yang tidak seharusnya. Jika penyakit ini menumbuhkan tulang di tempat di mana terjadi luka pada tulang, mungkin tidak akan terlihat buruk. Masalahnya penyakit ini mengganti otot dan sendi dengan tulang, sehingga semakin lama penderita semakin tidak bisa bergerak.
+Ingat, penyakit ini dapat dipicu dengan munculnya luka, jadi operasi untuk mengangkat tulang berlebih malah akan menumbuhkan lebih banyak tulang di masa depan. Oleh karena itu sampai saat jawaban ini ditulis, belum ada metode pengobatan yang benar-benar terbukti dapat mengatasi penyakit ini. Paling bantar sebatas memperlambat pertumbuhan tulang yang ujung-ujungnya akan menggerogoti isi tubuh pada suatu waktu.
+Masih ingat kalau penyakit ini mengganti jaringan ikat dengan tulang? Dengan demikian, penderita tidak mampu menumbuhkan otot, yang akibatnya adalah penderita akan memiliki penurunan massa otot seiring waktu.
+Selain itu, segala persendian lama-lama akan menyatu dan penderita pada akhirnya akan mencapai satu titik di mana mereka benar-benar tidak bisa bergerak. Termasuk rahang, sehingga penderita akan kehilangan kemampuan untuk berbicara, mengunyah, dan bahkan membuka atau menutup tubuh.
+Pada kasus di atas, rahang penderita tertahan pada posisi terbuka namun terlalu kecil untuk dapat memasukkan makanan.
+Oh, jangan dikira proses pertumbuhan tulangnya tidak akan berasa apa-apa. Seringkali pertumbuhan tulang akan menghujam organ-organ lain, dan penderita tidak memiliki kemampuan bergerak yang leluasa. Jadi bayangkan jika tubuh anda tertusuk dari dalam dan anda tidak bisa melakukan apa-apa. Makin tertusuk akan menimbulkan makin banyak luka, dan makin banyak luka akan menumbuhkan lebih banyak tulang.
+Penderita penyakit ini tidak akan berumur panjang. Kematian terjadi karena kehilangan kemampuan bernapas, makan, dan bahkan berhentinya denyut jantung karena terlalu banyak otot jantung yang menulang. Jika diberi perawatan, seorang penderita dapat mencapai usia 40 tahun. Masalahnya adalah penyakit ini adalah penyakit yang membunuh secara perlahan, jadi meminta pertolongan adalah hal yang dilematis. Apakah lebih baik membiarkan penderita untuk lebih cepat wafat atau memberi pertolongan namun memperpanjang derita penderita? Makanya penyakit ini saya anggap mengerikan.
+Lebih mengerikannya lagi adalah penyakit ini adalah penyakit genetik, alias penderita tidak memiliki pilihan soal penyakit ini. Para penderita memang tidak beruntung karena lahir dengan membawa penyakit yang akan membuatnya menderita seumur hidupnya.
+Karena tidak ada pengobatan dan pencegahan sama sekali, para penderita akhirnya pada suatu waktu akan diberi pertanyaan oleh dokter mereka: Apakah mereka ingin posisi terakhir mereka duduk atau berdiri? Silakan bayangkan ketika anda sedang cek rutin ke dokter, lalu dokter anda bertanya pilihan posisi yang akan anda miliki seumur hidup anda, mengingat di suatu masa anda akan kehilangan kemampuan untuk mengubah postur tubuh anda sendiri. Selamanya.
+Demikianlah penjelasan singkat tentang penyakit yang menurut saya paling mengerikan.
+Semoga membantu.
+
+#Teks 3
+Apa maksud Einstein dengan, "Tuhan tidak bermain dadu"?
+"Tuhan tidak bermain dadu" dari Einstein itu sebenarnya ungkapan metafora yang brilian. Dia pakai ungkapan itu buat nyindir para fisikawan kuantum yang konon terlalu mengandalkan probabilitas dan kebetulan buat jelasin fenomena subatomik.
+Gini ya kawan, kita tahu Einstein itu jenius. Dia bapaknya teori relativitas yang merevolusi fisika abad ke-20. Tapi rupanya Einstein gak setuju sama penemuan mekanika kuantum yang lagi heboh-hebohnya waktu itu.
+Mekanika kuantum ini menyatakan bahwa tingkah laku partikel-partikel kecil kayak elektron itu acak dan gak bisa diprediksi secara pasti. Kita cuma bisa hitung probabilitasnya bak main dadu. Misalnya mau nentuin posisi sama momentum elektron secara bersamaan itu mustahil.
+Nah Einstein keberatan banget sama konsep ini. Bagi dia, alam semesta itu berjalan menurut aturan yang pasti, bukan kebetulan atau untung-untungan kayak main dadu. Makanya dia bilang "Tuhan gak mungkin bermain dadu". Artinya Pencipta alam semesta tak mungkin membiarkan semesta diatur oleh kesempatan dan chaos semata kan?
+Intinya Einstein percaya mesti ada hukum fundamental yang menjelaskan perilaku partikel kecil itu secara deterministik, meski kita belum menemukannya. Dia yakin alam semesta itu teratur dan masuk akal, jadi mestinya partikel-partikel juga taat hukum alam yang belum kita pahami. Begitu keyakinan sang Professor.
+Ungkapan Einstein ini nunjukin kegigihan dia buat nemu teori apa yang mengatur alam secara koheren. Inilah yang mendorong Einstein menghabiskan sisa hidupnya mencari "Teori Medan Terunifikasi" meski tak kesampaian. Tapi semangatnya tentang keteraturan alam terus mengilhami pencarian sains hingga hari ini.
+Nah itu dia kawan penjelasan panjang lebar soal maksud Einstein bilang "Tuhan gak main dadu". Kuharap bisa ngebuka wawasan kamu soal pemikiran sang jenius abad 20 satu ini. Salam hangat dan terima kasih!
