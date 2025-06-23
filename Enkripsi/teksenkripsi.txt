@@ -1,0 +1,405 @@
+--------------Enkripsi Teks 1-------------- 
+# Caesar Cipher 
+Ehgd ghqjdq shqmdzde odlqqbd, vdbd sdndl olqxa xqwxn nhvhkduldq. exndq ghyhorshu,
+exndq surjudpphu, ehqhu-ehqhu nhvhkduldq. Vxgdk ohelk gdul 6 wdkxq (vhmdn vpd). Gdq
+krel slqgdk-slqgdk glvwur olqxa (jdqwl-jdqwl RV).
+
+
+Vdbd sdndl olqxa gl ks vdbd: Dqgurlg Pduvkpdoorz (lbd qjjd vdbd xsgdwh, kdkd).
+
+Gl odswrs, vhndudqj vdbd sdndl Olqxa ghqjdq glvwur Xexqwx 20.04 OWV.
+Nhqdsd? nduhqd vhpdnlq nhvlql sdud shqjhpedqj RV ehuedvlv olqxa vhpdnlq lqrydwli, 
+phphqxkl nhshuoxdq xvhu, gdq vhpdnlq pxgdk gljxqdndq. Xgdk ehgd edqjhw ghqjdq 
+rudqj-rudqj gxox bdqj elodqj "olqxa vxvdk, ulehw."
+
+
+
+vdbd ndwdndq, lqvwdoo xexqwx gl odswrs ohelk pxgdk gdulsdgd lqvwdoo zlqgrzv. vhulxv gdk. dvdondq mdqjdq wdnxw ehodmdu, lwx dmd.
+
+Vdbd qjjd qjhuwl frppdqg-frppdqg gl whuplqdo. dsd bdqj dgd glvhgldndq gl phqx lwx phqfxnxsl.
+Olqxa eldvdqbd phpehgdndq dqwdud xvhu bdqj shpdkdpdqqbd wlqjjl gdq nhexwxkdqqbd dqhk-dqhk (vhklqjjd ndodx pdx lnxw fdpsxu nh gdodp vlvwhp ohelk gdodp, 
+kduxv yld whuplqdo ehvhuwd frppdqg2 FOL), vhgdqjndq xvhu bdqj dzdp vdpd vlvwhp, fxpd glndvlk phqx vhghukdqd gdq pxgdk vhvxdl nhexwxkdqqbd.
+
+Nhqdsd olqxa, nduhqd ehehudsd kdo:
+
+Iohnvleho ghqjdq nhnxdwdq odswrs. Ndodx odswrs vshnqbd qjjd jdkdu-jdkdu dpdw, dwdx pdodk ohprw,
+dgd yduldq/glvwur olqxa bdqj ulqjdq vhklqjjd xvhu whwds whushqxkl nhexwxkdqqbd. Qjjd shuox odk pdnvdlq qhwerrn nhflo ohprw glmhmholq zlqgrzv 10 bdqj noln vwduw qxqjjx ehehudsd ghwln.
+Sdndl dmd Xexqwx dwdx Plqw ghqjdq GH (ghvnwrs hqylurqphqw) OAGH, AIFH, dwdx Flqqdprq. Wdpslodqqbd vwdqgdu, wdsl ulqjdq gdq whwhs pxwdnklu. 
+Pdx bdqj glsrohv delv? sdndl GH JQRPH dwdx NGH. (Vfuhhqvkrw vdbd lwx Xexqwx ghqjdq JQRPH).
+
+
+Judwlv. Nrpxqlwdv shqjhpedqj olqxa gl gxqld sxqbd vdwx sulqvls: Vlvwhp rshudvl lwx kdn vhpxd rudqj. 
+Vhpxd rudqj kduxv elvd sxqbd. Nhpxgldq, vhpxd rudqj mxjd sxqbd kdn dwdv nrpsxwhuqbd pdx gldsdndq, vhklqjjd
+olqxa phpehulndq nhehedvdq nrpsxwhuqbd pdx glxwdn-dwln edjdlpdqdsxq elvd. Wdsl bd, judwlv fxb, ghqjdq shqjjxqddq bdqj pxgdk, 
+wdpslodq edjxv, gdq phphqxkl nhexwxkdq, nhqdsd kduxv ehol vdpd plfurvriw? Phphqxkl nhexwxkdq. Edjl vdbd, olqxa phpdqj exndq jxgdqjqbd dsolndvl ndbdn zlqgrzv bdqj vhpxd dgd.
+wdsl dsd bdqj vdbd shuoxndq phqfxnxsl gl olqxa. Dsd vlk nhshuoxdq vdbd vhkdul-kdul? Qjhwln? dgd RqobRiilfh, ZSV Riilfh. Hglw jdpedu udvwhu gdq yhnwru? JLPS, Lqnvfdsh. Ghqjhu PS3 bd 
+mhodv elvd odk. Qrqwrq? YOF. Eurzvlqj? Fkurph & ILuhira. Jdph? Vwhdp. Nhfxdol ndodx nhshuoxdq djdq lwx sur edqjhw, ndbdn Skrwrvkrs, Dgreh Suhplhuh, GdYlqfl Uhvroyh, bdqj hpdqj ehoxp dgd wdqglqjdqqbd, gdq hpdqj djdq uhod edqjhw nhoxdu 
+gxlw edqbdn exdw vriwzduh bdqj surihvlrqdo wve. Kdkd exdw vdbd vlk JLPS vxgdk fxnxs.
+
+Forxg frpsxwlqj. Wdqsd vdgdu, pdnlq nhvlql vhpdnlq edqbdn surjudp bdqj glsdndl lwx ehuedvlv forxg. Exndq vhpdwd-pdwd surjudp riiolqh bdqj gllqvwdoo gdq nlwd sdndl orndo. Wdsl ehuedvlv forxg bdqj surjudp wve elvd vlqnurq gdq glsdndl gl pdqd-pdqd. Ndwdndqodk vdbd shqxolv, vdbd elvd sdndl Jrrjoh Grfv gl ks gdq gl odswrs. Vdyh gl jrrjoh gulyh. Qrqwrq? Qhwiola, brxwxeh. Hglwlqj? Fdqyd, Dgreh Vsdun. Frqihuhqfh, CRRP. Lql surjudp-surjudp bdqj gl olqxa sxq whuvhgld, dwdx edkndq ehuprgdo eurzvhu vhpdfdp fkurph dwdx iluhira dmd phqfxnxsl. Wdqsd glvdgdul, edqbdn gdul nlwd bdqj vhehqhuqbd qjjd exwxk-exwxk edqjhw vdpd zlqgrzv.
+Dpdq erv. Mdudqj nhghqjhudq dwdx edkndq qjjd dgd yluxv-yluxvdq. nduhqd gl vlql xqwxn elvd mdodqlq surjudp, edkndq pdx lqvwdoo dmd, gld lclq dgplqlvwudwru gxox plqwd sdvvzrug. mdgl pxqjnlq djdn vxolw exdw yluxv ehunholdudq gl vlql.
+Glsdnvd ehodmdu gdq nhqdo vdpd odswrs vhqglul. Olqxa lwx qjjd vhedjdlpdqd zlqgrzv bdqj nlwd vxgdk whueldvd gdul nhflo. Pdnd nhwlnd lqvwdoo RV ehuedvlv olqxa, pdnd gl vlql nlwd ehodmdu gdq mdgl nhqdo edjdlpdqd odswrs lql ehumdodq.
+6 wdkxq odox, vdbd sdndl Olqxa Plqw NGH yhuvl 14 , gdq lwx pdvlk vxolw. Gulyhu pdvdodk, vriwzduh vhglnlw. Fxnxs ehudw gdq dnkluqbd wlgdn whusdndl/mdudqj. Wdsl vhndudqj vdbd sdndl Xexqwx 20, shunhpedqjdqqbd oxdu eldvd gdq vhued pxgdk.
+
+Lqvwdo fxpd 5–10 phqlw, elvd gxdo-errw (Zlqgrzv-Olqxa), vhwhodk lqvwdo: vlds gljxqdndq (vhpxd dss gdvdu vxgdk dgd). Shuox wdpedkdq dsolndvl: exnd Xexqwx/Vriwzduh Fhqwhu (vhpdfdp sodbvwruh), lqvwdoo.
+
+
+
+Mdqjdq wdnxw, vhodpdw phqfred!
+
+Lqvbddoodk pxgdk nrn. Edkndq vdbd vhqglul nhwlnd sdndl zlqgrzv (gl ndqwru) hprvl, ohelk hqdn xexqwx vhndudqj.
+
+Hglw 2023:
+
+Ndodx vhndudqj, nhehwxodq odswrs odjl ehupdvdodk (ofg) kduxv frqqhfw prqlwru whuxv, mdgl vdbd vxpprq nhpedol qhwerrn mdgxo vdbd wdkxq 2015 (Dvxv A200P, 11" lqfk, lqwho dwrp, 2JE udp) xqwxn nhumddq ulqjdq gdq preloh.
+
+Vdbd whuwdqwdqj xqwxn phqfdul RV bdqj whsdw gdq dnkluqbd vdbd sdndl FkurphRV Ioha. Phvnl ghqjdq RV fdnhs gdq nhnlqldq, rv lql ohelk ulqjdq gdul glvwur-glvwur olqxa ulqjdq bdqj shuqdk vdbd fred. Ehqdu-ehqdu vdwvhwvdwvhw. Elqjxqj nhqdsd odswrs bdqj kdpslu jd dgd kdudsdq pdodk mdgl vhnhqfhqj lql.
+
+Edjl whpdq-whpdq bdqj nhumddqqbd nhedqbdndq fxpd yld eurzvhu dmd, forxg frpsxwlqj, lql FkurphRV elvd glfred. Vhedjdlpdqd wdgl vdbd elodqj, nduhqd nhexwxkdq edvlf vdbd whushqxkl gdul hqylurqphqw Jrrjoh, mdgl lql vroxvl exdw vdbd. Edkndq, shqjjxqddqqbd ohelk pxgdk gdulsdgd nhedqbdndq glvwur olqxa.
+
+Hglw 2024:
+
+Vdbd vhndudqj sdndl Pdqmdur l3zp. Lw'v mxvw vlpsoh, vxshu oljkwzhljkw, dqg ehdxwlixo.
+
+Ghqjdq RV prghuq, xs wr gdwh, gdq nhqfdqj (nduhqd plqlpdolv l3zp), wdsl mxjd ixoo ihdwxuh (nduhqd Pdqmdur bdqj Dufk-edvhg).
+
+Rk lbd, vdbd mxjd lqvwdoo Olqxa Plqw nh ehehudsd odswrs ndqwru bdqj whujrorqj nhqwdqj. Dzdoqbd Zlqgrzv bdqj vxshu ohohw, jdqwl nh OP mdgl zxvkzxvk. Vdqjdw oxpdbdq exdw whphq2 bdqj odswrs ndqwru fxpd exdw eurzvlqj gdq qjhsulqw odsrudq.
+
+#Affine Cipher 
+Ncxi xcvmiv fcvbioin liwvvyi, uiyi figiw lwvet evzeg gcucripwiv. negiv xcjclafcp,
+negiv fpampiqqcp, ncvcp-ncvcp gcucripwiv. Uexir lcnwr xipw 6 zirev (ucbig uqi). Xiv
+ranw fwvxir-fwvxir xwuzpa lwvet (mivzw-mivzw AU).
+
+
+Uiyi figiw lwvet xw rf uiyi: Ivxpawx Qipurqillao (wyi vmmi uiyi efxizc, riri).
+
+Xw lifzaf, ucgipivm uiyi figiw Lwvet xcvmiv xwuzpa Enevze 20.04 LZU.
+Gcvifi? gipcvi ucqigwv gcuwvw fipi fcvmcqnivm AU ncpniuwu lwvet ucqigwv wvajizwh, 
+qcqcverw gcfcpleiv eucp, xiv ucqigwv qexir xwmevigiv. Exir ncxi nivmcz xcvmiv 
+apivm-apivm xele yivm nwlivm "lwvet ueuir, pwncz."
+
+
+
+uiyi gizigiv, wvuzill enevze xw lifzaf lcnwr qexir xipwfixi wvuzill owvxaou. ucpweu xir. iuilgiv bivmiv zigez nclibip, wze ibi.
+
+Uiyi vmmi vmcpzw saqqivx-saqqivx xw zcpqwvil. ifi yivm ixi xwucxwigiv xw qcve wze qcvsegefw.
+Lwvet nwiuivyi qcqncxigiv ivzipi eucp yivm fcqiriqivvyi zwvmmw xiv gcnezerivvyi ivcr-ivcr (ucrwvmmi gilie qie wgez siqfep gc xiliq uwuzcq lcnwr xiliq, 
+ripeu jwi zcpqwvil ncucpzi saqqivx2 SLW), ucxivmgiv eucp yivm ioiq uiqi uwuzcq, seqi xwgiuwr qcve ucxcprivi xiv qexir ucueiw gcnezerivvyi.
+
+Gcvifi lwvet, gipcvi ncncpifi ril:
+
+Hlcguwncl xcvmiv gcgeiziv lifzaf. Gilie lifzaf ufcgvyi vmmi mirip-mirip iqiz, izie qilir lcqaz,
+ixi jipwiv/xwuzpa lwvet yivm pwvmiv ucrwvmmi eucp zczif zcpfcverw gcnezerivvyi. Vmmi fcple lir qiguiwv vcznaag gcswl lcqaz xwbcbclwv owvxaou 10 yivm glwg uzipz vevmme ncncpifi xczwg.
+Figiw ibi Enevze izie Qwvz xcvmiv XC (xcugzaf cvjwpavqcvz) LTXC, THSC, izie Swvviqav. Ziqfwlivvyi uzivxip, zifw pwvmiv xiv zczcf qezigrwp. 
+Qie yivm xwfalcu inwu? figiw XC MVAQC izie GXC. (Uspccvuraz uiyi wze Enevze xcvmiv MVAQC).
+
+
+Mpizwu. Gaqevwziu fcvmcqnivm lwvet xw xevwi fevyi uize fpwvuwf: Uwuzcq afcpiuw wze rig ucqei apivm. 
+Ucqei apivm ripeu nwui fevyi. Gcqexwiv, ucqei apivm bemi fevyi rig iziu gaqfezcpvyi qie xwifigiv, ucrwvmmi
+lwvet qcqncpwgiv gcncniuiv gaqfezcpvyi qie xwezig-izwg nimiwqivifev nwui. Zifw yi, mpizwu sey, xcvmiv fcvmmeviiv yivm qexir, 
+ziqfwliv nimeu, xiv qcqcverw gcnezeriv, gcvifi ripeu nclw uiqi qwspauahz? Qcqcverw gcnezeriv. Nimw uiyi, lwvet qcqivm negiv mexivmvyi iflwgiuw giyig owvxaou yivm ucqei ixi.
+zifw ifi yivm uiyi fcplegiv qcvsegefw xw lwvet. Ifi uwr gcfcpleiv uiyi ucripw-ripw? Vmczwg? ixi AvlyAhhwsc, OFU Ahhwsc. Cxwz miqnip piuzcp xiv jcgzap? MWQF, Wvgusifc. Xcvmcp QF3 yi 
+bcliu nwui lir. Vavzav? JLS. Npaouwvm? Srpaqc & HWpchat. Miqc? Uzciq. Gcseilw gilie gcfcpleiv imiv wze fpa nivmcz, giyig Frazauraf, Ixanc Fpcqwcpc, XiJwvsw Pcualjc, yivm cqivm ncleq ixi zivxwvmivvyi, xiv cqivm imiv pcli nivmcz gcleip 
+xewz nivyig neiz uahzoipc yivm fpahcuwavil zun. Riri neiz uiyi uwr MWQF uexir segef.
+
+Slaex saqfezwvm. Zivfi uixip, qigwv gcuwvw ucqigwv nivyig fpampiq yivm xwfigiw wze ncpniuwu slaex. Negiv ucqizi-qizi fpampiq ahhlwvc yivm xwwvuzill xiv gwzi figiw lagil. Zifw ncpniuwu slaex yivm fpampiq zun nwui uwvgpav xiv xwfigiw xw qivi-qivi. Gizigivlir uiyi fcvelwu, uiyi nwui figiw Maamlc Xasu xw rf xiv xw lifzaf. Uijc xw maamlc xpwjc. Vavzav? Vczhlwt, yaezenc. Cxwzwvm? Sivji, Ixanc Ufipg. Savhcpcvsc, DAAQ. Wvw fpampiq-fpampiq yivm xw lwvet fev zcpucxwi, izie nirgiv ncpqaxil npaoucp ucqisiq srpaqc izie hwpchat ibi qcvsegefw. Zivfi xwuixipw, nivyig xipw gwzi yivm ucncvcpvyi vmmi nezer-nezer nivmcz uiqi owvxaou.
+Iqiv nau. Bipivm gcxcvmcpiv izie nirgiv vmmi ixi jwpeu-jwpeuiv. gipcvi xw uwvw evzeg nwui bilivwv fpampiq, nirgiv qie wvuzill ibi, xwi wdwv ixqwvwuzpizap xele qwvzi fiuuoapx. bixw qevmgwv imig uelwz neiz jwpeu ncpgclwipiv xw uwvw.
+Xwfigui nclibip xiv gcvil uiqi lifzaf ucvxwpw. Lwvet wze vmmi ucnimiwqivi owvxaou yivm gwzi uexir zcpnwiui xipw gcswl. Qigi gczwgi wvuzill AU ncpniuwu lwvet, qigi xw uwvw gwzi nclibip xiv bixw gcvil nimiwqivi lifzaf wvw ncpbiliv.
+6 zirev lile, uiyi figiw Lwvet Qwvz GXC jcpuw 14 , xiv wze qiuwr uelwz. Xpwjcp qiuilir, uahzoipc ucxwgwz. Segef ncpiz xiv igrwpvyi zwxig zcpfigiw/bipivm. Zifw ucgipivm uiyi figiw Enevze 20, fcpgcqnivmivvyi leip nwiui xiv ucpni qexir.
+
+Wvuzil seqi 5–10 qcvwz, nwui xeil-naaz (Owvxaou-Lwvet), uczclir wvuzil: uwif xwmevigiv (ucqei iff xiuip uexir ixi). Fcple ziqniriv iflwgiuw: negi Enevze/Uahzoipc Scvzcp (ucqisiq fliyuzapc), wvuzill.
+
+
+
+Bivmiv zigez, ucliqiz qcvsani!
+
+Wvuyiillir qexir gag. Nirgiv uiyi ucvxwpw gczwgi figiw owvxaou (xw givzap) cqauw, lcnwr cvig enevze ucgipivm.
+
+Cxwz 2023:
+
+Gilie ucgipivm, gcnczeliv lifzaf limw ncpqiuilir (lsx) ripeu savvcsz qavwzap zcpeu, bixw uiyi ueqqav gcqnilw vcznaag bixel uiyi zirev 2015 (Iueu T200Q, 11" wvsr, wvzcl izaq, 2MN piq) evzeg gcpbiiv pwvmiv xiv qanwlc.
+
+Uiyi zcpzivzivm evzeg qcvsipw AU yivm zcfiz xiv igrwpvyi uiyi figiw SrpaqcAU Hlct. Qcugw xcvmiv AU sigcf xiv gcgwvwiv, au wvw lcnwr pwvmiv xipw xwuzpa-xwuzpa lwvet pwvmiv yivm fcpvir uiyi sani. Ncvip-ncvip uizuczuizucz. Nwvmevm gcvifi lifzaf yivm riqfwp mi ixi ripifiv qilir bixw ucgcvscvm wvw.
+
+Nimw zcqiv-zcqiv yivm gcpbiivvyi gcnivyigiv seqi jwi npaoucp ibi, slaex saqfezwvm, wvw SrpaqcAU nwui xwsani. Ucnimiwqivi zixw uiyi nwlivm, gipcvi gcnezeriv niuws uiyi zcpfcverw xipw cvjwpavqcvz Maamlc, bixw wvw ualeuw neiz uiyi. Nirgiv, fcvmmeviivvyi lcnwr qexir xipwfixi gcnivyigiv xwuzpa lwvet.
+
+Cxwz 2024:
+
+Uiyi ucgipivm figiw Qivbipa w3oq. Wz'u beuz uwqflc, uefcp lwmrzocwmrz, ivx nciezwhel.
+
+Xcvmiv AU qaxcpv, ef za xizc, xiv gcvsivm (gipcvi qwvwqilwu w3oq), zifw bemi hell hcizepc (gipcvi Qivbipa yivm Ipsr-niucx).
+
+Ar wyi, uiyi bemi wvuzill Lwvet Qwvz gc ncncpifi lifzaf givzap yivm zcpmalavm gcvzivm. Ioilvyi Owvxaou yivm uefcp lclcz, mivzw gc LQ bixw oeuroeur. Uivmiz leqiyiv neiz zcqcv2 yivm lifzaf givzap seqi neiz npaouwvm xiv vmcfpwvz lifapiv.  
+
+#Atbash Cipher 
+Yvwz wvmtzm kvmqzdzy ozrmmbz, hzbz kzpzr ormfc fmgfp pvhvszirzm. yfpzm wvevolkvi,
+yfpzm kiltiznnvi, yvmvi-yvmvi pvhvszirzm. Hfwzs ovyrs wzir 6 gzsfm (hvqzp hnz). Wzm
+slyr krmwzs-krmwzs wrhgil ormfc (tzmgr-tzmgr LH).
+
+
+Hzbz kzpzr ormfc wr sk hzbz: Zmwilrw Nzihsnzoold (rbz mttz hzbz fkwzgv, szsz).
+
+Wr ozkglk, hvpzizmt hzbz kzpzr Ormfc wvmtzm wrhgil Fyfmgf 20.04 OGH.
+Pvmzkz? pzivmz hvnzprm pvhrmr kziz kvmtvnyzmt LH yviyzhrh ormfc hvnzprm rmlezgru, 
+nvnvmfsr pvkviofzm fhvi, wzm hvnzprm nfwzs wrtfmzpzm. Fwzs yvwz yzmtvg wvmtzm 
+lizmt-lizmt wfof bzmt yrozmt "ormfc hfhzs, iryvg."
+
+
+
+hzbz pzgzpzm, rmhgzoo fyfmgf wr ozkglk ovyrs nfwzs wzirkzwz rmhgzoo drmwldh. hvirfh wzs. zhzopzm qzmtzm gzpfg yvozqzi, rgf zqz.
+
+Hzbz mttz mtvigr xlnnzmw-xlnnzmw wr gvinrmzo. zkz bzmt zwz wrhvwrzpzm wr nvmf rgf nvmxfpfkr.
+Ormfc yrzhzmbz nvnyvwzpzm zmgziz fhvi bzmt kvnzsznzmmbz grmttr wzm pvyfgfszmmbz zmvs-zmvs (hvsrmttz pzozf nzf rpfg xznkfi pv wzozn hrhgvn ovyrs wzozn, 
+szifh erz gvinrmzo yvhvigz xlnnzmw2 XOR), hvwzmtpzm fhvi bzmt zdzn hznz hrhgvn, xfnz wrpzhrs nvmf hvwviszmz wzm nfwzs hvhfzr pvyfgfszmmbz.
+
+Pvmzkz ormfc, pzivmz yvyvizkz szo:
+
+Uovphryvo wvmtzm pvpfzgzm ozkglk. Pzozf ozkglk hkvpmbz mttz tzszi-tzszi znzg, zgzf nzozs ovnlg,
+zwz ezirzm/wrhgil ormfc bzmt irmtzm hvsrmttz fhvi gvgzk gvikvmfsr pvyfgfszmmbz. Mttz kviof ozs nzphzrm mvgyllp pvxro ovnlg wrqvqvorm drmwldh 10 bzmt porp hgzig mfmttf yvyvizkz wvgrp.
+Kzpzr zqz Fyfmgf zgzf Nrmg wvmtzm WV (wvhpglk vmerilmnvmg) OCWV, CUXV, zgzf Xrmmznlm. Gznkrozmmbz hgzmwzi, gzkr irmtzm wzm gvgvk nfgzpsri. 
+Nzf bzmt wrklovh zyrh? kzpzr WV TMLNV zgzf PWV. (Hxivvmhslg hzbz rgf Fyfmgf wvmtzm TMLNV).
+
+
+Tizgrh. Plnfmrgzh kvmtvnyzmt ormfc wr wfmrz kfmbz hzgf kirmhrk: Hrhgvn lkvizhr rgf szp hvnfz lizmt. 
+Hvnfz lizmt szifh yrhz kfmbz. Pvnfwrzm, hvnfz lizmt qftz kfmbz szp zgzh plnkfgvimbz nzf wrzkzpzm, hvsrmttz
+ormfc nvnyvirpzm pvyvyzhzm plnkfgvimbz nzf wrfgzp-zgrp yztzrnzmzkfm yrhz. Gzkr bz, tizgrh xfb, wvmtzm kvmttfmzzm bzmt nfwzs, 
+gznkrozm yztfh, wzm nvnvmfsr pvyfgfszm, pvmzkz szifh yvor hznz nrxilhlug? Nvnvmfsr pvyfgfszm. Yztr hzbz, ormfc nvnzmt yfpzm tfwzmtmbz zkorpzhr pzbzp drmwldh bzmt hvnfz zwz.
+gzkr zkz bzmt hzbz kviofpzm nvmxfpfkr wr ormfc. Zkz hrs pvkviofzm hzbz hvszir-szir? Mtvgrp? zwz LmobLuurxv, DKH Luurxv. Vwrg tznyzi izhgvi wzm evpgli? TRNK, Rmphxzkv. Wvmtvi NK3 bz 
+qvozh yrhz ozs. Mlmglm? EOX. Yildhrmt? Xsilnv & URivulc. Tznv? Hgvzn. Pvxfzor pzozf pvkviofzm ztzm rgf kil yzmtvg, pzbzp Kslglhslk, Zwlyv Kivnrviv, WzErmxr Ivhloev, bzmt vnzmt yvofn zwz gzmwrmtzmmbz, wzm vnzmt ztzm ivoz yzmtvg pvofzi 
+wfrg yzmbzp yfzg hlugdziv bzmt kiluvhrlmzo ghy. Szsz yfzg hzbz hrs TRNK hfwzs xfpfk.
+
+Xolfw xlnkfgrmt. Gzmkz hzwzi, nzprm pvhrmr hvnzprm yzmbzp kiltizn bzmt wrkzpzr rgf yviyzhrh xolfw. Yfpzm hvnzgz-nzgz kiltizn luuormv bzmt wrrmhgzoo wzm prgz kzpzr olpzo. Gzkr yviyzhrh xolfw bzmt kiltizn ghy yrhz hrmpilm wzm wrkzpzr wr nzmz-nzmz. Pzgzpzmozs hzbz kvmforh, hzbz yrhz kzpzr Tlltov Wlxh wr sk wzm wr ozkglk. Hzev wr tlltov wirev. Mlmglm? Mvguorc, blfgfyv. Vwrgrmt? Xzmez, Zwlyv Hkzip. Xlmuvivmxv, ALLN. Rmr kiltizn-kiltizn bzmt wr ormfc kfm gvihvwrz, zgzf yzspzm yvinlwzo yildhvi hvnzxzn xsilnv zgzf urivulc zqz nvmxfpfkr. Gzmkz wrhzwzir, yzmbzp wzir prgz bzmt hvyvmvimbz mttz yfgfs-yfgfs yzmtvg hznz drmwldh.
+Znzm ylh. Qzizmt pvwvmtvizm zgzf yzspzm mttz zwz erifh-erifhzm. pzivmz wr hrmr fmgfp yrhz qzozmrm kiltizn, yzspzm nzf rmhgzoo zqz, wrz rarm zwnrmrhgizgli wfof nrmgz kzhhdliw. qzwr nfmtprm ztzp hforg yfzg erifh yvipvorzizm wr hrmr.
+Wrkzphz yvozqzi wzm pvmzo hznz ozkglk hvmwrir. Ormfc rgf mttz hvyztzrnzmz drmwldh bzmt prgz hfwzs gviyrzhz wzir pvxro. Nzpz pvgrpz rmhgzoo LH yviyzhrh ormfc, nzpz wr hrmr prgz yvozqzi wzm qzwr pvmzo yztzrnzmz ozkglk rmr yviqzozm.
+6 gzsfm ozof, hzbz kzpzr Ormfc Nrmg PWV evihr 14 , wzm rgf nzhrs hforg. Wirevi nzhzozs, hlugdziv hvwrprg. Xfpfk yvizg wzm zpsrimbz grwzp gvikzpzr/qzizmt. Gzkr hvpzizmt hzbz kzpzr Fyfmgf 20, kvipvnyzmtzmmbz ofzi yrzhz wzm hviyz nfwzs.
+
+Rmhgzo xfnz 5–10 nvmrg, yrhz wfzo-yllg (Drmwldh-Ormfc), hvgvozs rmhgzo: hrzk wrtfmzpzm (hvnfz zkk wzhzi hfwzs zwz). Kviof gznyzszm zkorpzhr: yfpz Fyfmgf/Hlugdziv Xvmgvi (hvnzxzn kozbhgliv), rmhgzoo.
+
+
+
+Qzmtzm gzpfg, hvoznzg nvmxlyz!
+
+Rmhbzzoozs nfwzs plp. Yzspzm hzbz hvmwrir pvgrpz kzpzr drmwldh (wr pzmgli) vnlhr, ovyrs vmzp fyfmgf hvpzizmt.
+
+Vwrg 2023:
+
+Pzozf hvpzizmt, pvyvgfozm ozkglk oztr yvinzhzozs (oxw) szifh xlmmvxg nlmrgli gvifh, qzwr hzbz hfnnlm pvnyzor mvgyllp qzwfo hzbz gzsfm 2015 (Zhfh C200N, 11" rmxs, rmgvo zgln, 2TY izn) fmgfp pviqzzm irmtzm wzm nlyrov.
+
+Hzbz gvigzmgzmt fmgfp nvmxzir LH bzmt gvkzg wzm zpsrimbz hzbz kzpzr XsilnvLH Uovc. Nvhpr wvmtzm LH xzpvk wzm pvprmrzm, lh rmr ovyrs irmtzm wzir wrhgil-wrhgil ormfc irmtzm bzmt kvimzs hzbz xlyz. Yvmzi-yvmzi hzghvghzghvg. Yrmtfmt pvmzkz ozkglk bzmt sznkri tz zwz szizkzm nzozs qzwr hvpvmxvmt rmr.
+
+Yztr gvnzm-gvnzm bzmt pviqzzmmbz pvyzmbzpzm xfnz erz yildhvi zqz, xolfw xlnkfgrmt, rmr XsilnvLH yrhz wrxlyz. Hvyztzrnzmz gzwr hzbz yrozmt, pzivmz pvyfgfszm yzhrx hzbz gvikvmfsr wzir vmerilmnvmg Tlltov, qzwr rmr hlofhr yfzg hzbz. Yzspzm, kvmttfmzzmmbz ovyrs nfwzs wzirkzwz pvyzmbzpzm wrhgil ormfc.
+
+Vwrg 2024:
+
+Hzbz hvpzizmt kzpzr Nzmqzil r3dn. Rg'h qfhg hrnkov, hfkvi ortsgdvrtsg, zmw yvzfgrufo.
+
+Wvmtzm LH nlwvim, fk gl wzgv, wzm pvmxzmt (pzivmz nrmrnzorh r3dn), gzkr qftz ufoo uvzgfiv (pzivmz Nzmqzil bzmt Zixs-yzhvw).
+
+Ls rbz, hzbz qftz rmhgzoo Ormfc Nrmg pv yvyvizkz ozkglk pzmgli bzmt gvitlolmt pvmgzmt. Zdzombz Drmwldh bzmt hfkvi ovovg, tzmgr pv ON qzwr dfhsdfhs. Hzmtzg ofnzbzm yfzg gvnvm2 bzmt ozkglk pzmgli xfnz yfzg yildhrmt wzm mtvkirmg ozklizm.
+
+
+--------------Enkripsi Teks 2-------------- 
+# Caesar Cipher 
+Ehgd ghqjdq shqmdzde odlqqbd, vdbd sdndl olqxa xqwxn nhvhkduldq. exndq ghyhorshu,
+exndq surjudpphu, ehqhu-ehqhu nhvhkduldq. Vxgdk ohelk gdul 6 wdkxq (vhmdn vpd). Gdq
+krel slqgdk-slqgdk glvwur olqxa (jdqwl-jdqwl RV).
+
+
+Vdbd sdndl olqxa gl ks vdbd: Dqgurlg Pduvkpdoorz (lbd qjjd vdbd xsgdwh, kdkd).
+
+Gl odswrs, vhndudqj vdbd sdndl Olqxa ghqjdq glvwur Xexqwx 20.04 OWV.
+Nhqdsd? nduhqd vhpdnlq nhvlql sdud shqjhpedqj RV ehuedvlv olqxa vhpdnlq lqrydwli, 
+phphqxkl nhshuoxdq xvhu, gdq vhpdnlq pxgdk gljxqdndq. Xgdk ehgd edqjhw ghqjdq 
+rudqj-rudqj gxox bdqj elodqj "olqxa vxvdk, ulehw."
+
+
+
+vdbd ndwdndq, lqvwdoo xexqwx gl odswrs ohelk pxgdk gdulsdgd lqvwdoo zlqgrzv. vhulxv gdk. dvdondq mdqjdq wdnxw ehodmdu, lwx dmd.
+
+Vdbd qjjd qjhuwl frppdqg-frppdqg gl whuplqdo. dsd bdqj dgd glvhgldndq gl phqx lwx phqfxnxsl.
+Olqxa eldvdqbd phpehgdndq dqwdud xvhu bdqj shpdkdpdqqbd wlqjjl gdq nhexwxkdqqbd dqhk-dqhk (vhklqjjd ndodx pdx lnxw fdpsxu nh gdodp vlvwhp ohelk gdodp, 
+kduxv yld whuplqdo ehvhuwd frppdqg2 FOL), vhgdqjndq xvhu bdqj dzdp vdpd vlvwhp, fxpd glndvlk phqx vhghukdqd gdq pxgdk vhvxdl nhexwxkdqqbd.
+
+Nhqdsd olqxa, nduhqd ehehudsd kdo:
+
+Iohnvleho ghqjdq nhnxdwdq odswrs. Ndodx odswrs vshnqbd qjjd jdkdu-jdkdu dpdw, dwdx pdodk ohprw,
+dgd yduldq/glvwur olqxa bdqj ulqjdq vhklqjjd xvhu whwds whushqxkl nhexwxkdqqbd. Qjjd shuox odk pdnvdlq qhwerrn nhflo ohprw glmhmholq zlqgrzv 10 bdqj noln vwduw qxqjjx ehehudsd ghwln.
+Sdndl dmd Xexqwx dwdx Plqw ghqjdq GH (ghvnwrs hqylurqphqw) OAGH, AIFH, dwdx Flqqdprq. Wdpslodqqbd vwdqgdu, wdsl ulqjdq gdq whwhs pxwdnklu. 
+Pdx bdqj glsrohv delv? sdndl GH JQRPH dwdx NGH. (Vfuhhqvkrw vdbd lwx Xexqwx ghqjdq JQRPH).
+
+
+Judwlv. Nrpxqlwdv shqjhpedqj olqxa gl gxqld sxqbd vdwx sulqvls: Vlvwhp rshudvl lwx kdn vhpxd rudqj. 
+Vhpxd rudqj kduxv elvd sxqbd. Nhpxgldq, vhpxd rudqj mxjd sxqbd kdn dwdv nrpsxwhuqbd pdx gldsdndq, vhklqjjd
+olqxa phpehulndq nhehedvdq nrpsxwhuqbd pdx glxwdn-dwln edjdlpdqdsxq elvd. Wdsl bd, judwlv fxb, ghqjdq shqjjxqddq bdqj pxgdk, 
+wdpslodq edjxv, gdq phphqxkl nhexwxkdq, nhqdsd kduxv ehol vdpd plfurvriw? Phphqxkl nhexwxkdq. Edjl vdbd, olqxa phpdqj exndq jxgdqjqbd dsolndvl ndbdn zlqgrzv bdqj vhpxd dgd.
+wdsl dsd bdqj vdbd shuoxndq phqfxnxsl gl olqxa. Dsd vlk nhshuoxdq vdbd vhkdul-kdul? Qjhwln? dgd RqobRiilfh, ZSV Riilfh. Hglw jdpedu udvwhu gdq yhnwru? JLPS, Lqnvfdsh. Ghqjhu PS3 bd 
+mhodv elvd odk. Qrqwrq? YOF. Eurzvlqj? Fkurph & ILuhira. Jdph? Vwhdp. Nhfxdol ndodx nhshuoxdq djdq lwx sur edqjhw, ndbdn Skrwrvkrs, Dgreh Suhplhuh, GdYlqfl Uhvroyh, bdqj hpdqj ehoxp dgd wdqglqjdqqbd, gdq hpdqj djdq uhod edqjhw nhoxdu 
+gxlw edqbdn exdw vriwzduh bdqj surihvlrqdo wve. Kdkd exdw vdbd vlk JLPS vxgdk fxnxs.
+
+Forxg frpsxwlqj. Wdqsd vdgdu, pdnlq nhvlql vhpdnlq edqbdn surjudp bdqj glsdndl lwx ehuedvlv forxg. Exndq vhpdwd-pdwd surjudp riiolqh bdqj gllqvwdoo gdq nlwd sdndl orndo. Wdsl ehuedvlv forxg bdqj surjudp wve elvd vlqnurq gdq glsdndl gl pdqd-pdqd. Ndwdndqodk vdbd shqxolv, vdbd elvd sdndl Jrrjoh Grfv gl ks gdq gl odswrs. Vdyh gl jrrjoh gulyh. Qrqwrq? Qhwiola, brxwxeh. Hglwlqj? Fdqyd, Dgreh Vsdun. Frqihuhqfh, CRRP. Lql surjudp-surjudp bdqj gl olqxa sxq whuvhgld, dwdx edkndq ehuprgdo eurzvhu vhpdfdp fkurph dwdx iluhira dmd phqfxnxsl. Wdqsd glvdgdul, edqbdn gdul nlwd bdqj vhehqhuqbd qjjd exwxk-exwxk edqjhw vdpd zlqgrzv.
+Dpdq erv. Mdudqj nhghqjhudq dwdx edkndq qjjd dgd yluxv-yluxvdq. nduhqd gl vlql xqwxn elvd mdodqlq surjudp, edkndq pdx lqvwdoo dmd, gld lclq dgplqlvwudwru gxox plqwd sdvvzrug. mdgl pxqjnlq djdn vxolw exdw yluxv ehunholdudq gl vlql.
+Glsdnvd ehodmdu gdq nhqdo vdpd odswrs vhqglul. Olqxa lwx qjjd vhedjdlpdqd zlqgrzv bdqj nlwd vxgdk whueldvd gdul nhflo. Pdnd nhwlnd lqvwdoo RV ehuedvlv olqxa, pdnd gl vlql nlwd ehodmdu gdq mdgl nhqdo edjdlpdqd odswrs lql ehumdodq.
+6 wdkxq odox, vdbd sdndl Olqxa Plqw NGH yhuvl 14 , gdq lwx pdvlk vxolw. Gulyhu pdvdodk, vriwzduh vhglnlw. Fxnxs ehudw gdq dnkluqbd wlgdn whusdndl/mdudqj. Wdsl vhndudqj vdbd sdndl Xexqwx 20, shunhpedqjdqqbd oxdu eldvd gdq vhued pxgdk.
+
+Lqvwdo fxpd 5–10 phqlw, elvd gxdo-errw (Zlqgrzv-Olqxa), vhwhodk lqvwdo: vlds gljxqdndq (vhpxd dss gdvdu vxgdk dgd). Shuox wdpedkdq dsolndvl: exnd Xexqwx/Vriwzduh Fhqwhu (vhpdfdp sodbvwruh), lqvwdoo.
+
+
+
+Mdqjdq wdnxw, vhodpdw phqfred!
+
+Lqvbddoodk pxgdk nrn. Edkndq vdbd vhqglul nhwlnd sdndl zlqgrzv (gl ndqwru) hprvl, ohelk hqdn xexqwx vhndudqj.
+
+Hglw 2023:
+
+Ndodx vhndudqj, nhehwxodq odswrs odjl ehupdvdodk (ofg) kduxv frqqhfw prqlwru whuxv, mdgl vdbd vxpprq nhpedol qhwerrn mdgxo vdbd wdkxq 2015 (Dvxv A200P, 11" lqfk, lqwho dwrp, 2JE udp) xqwxn nhumddq ulqjdq gdq preloh.
+
+Vdbd whuwdqwdqj xqwxn phqfdul RV bdqj whsdw gdq dnkluqbd vdbd sdndl FkurphRV Ioha. Phvnl ghqjdq RV fdnhs gdq nhnlqldq, rv lql ohelk ulqjdq gdul glvwur-glvwur olqxa ulqjdq bdqj shuqdk vdbd fred. Ehqdu-ehqdu vdwvhwvdwvhw. Elqjxqj nhqdsd odswrs bdqj kdpslu jd dgd kdudsdq pdodk mdgl vhnhqfhqj lql.
+
+Edjl whpdq-whpdq bdqj nhumddqqbd nhedqbdndq fxpd yld eurzvhu dmd, forxg frpsxwlqj, lql FkurphRV elvd glfred. Vhedjdlpdqd wdgl vdbd elodqj, nduhqd nhexwxkdq edvlf vdbd whushqxkl gdul hqylurqphqw Jrrjoh, mdgl lql vroxvl exdw vdbd. Edkndq, shqjjxqddqqbd ohelk pxgdk gdulsdgd nhedqbdndq glvwur olqxa.
+
+Hglw 2024:
+
+Vdbd vhndudqj sdndl Pdqmdur l3zp. Lw'v mxvw vlpsoh, vxshu oljkwzhljkw, dqg ehdxwlixo.
+
+Ghqjdq RV prghuq, xs wr gdwh, gdq nhqfdqj (nduhqd plqlpdolv l3zp), wdsl mxjd ixoo ihdwxuh (nduhqd Pdqmdur bdqj Dufk-edvhg).
+
+Rk lbd, vdbd mxjd lqvwdoo Olqxa Plqw nh ehehudsd odswrs ndqwru bdqj whujrorqj nhqwdqj. Dzdoqbd Zlqgrzv bdqj vxshu ohohw, jdqwl nh OP mdgl zxvkzxvk. Vdqjdw oxpdbdq exdw whphq2 bdqj odswrs ndqwru fxpd exdw eurzvlqj gdq qjhsulqw odsrudq.
+
+#Affine Cipher 
+"Zeriv zwxig ncpqiwv xixe" xipw Cwvuzcwv wze ucncvipvyi evmgifiv qczihapi yivm npwlwiv. Xwi figiw evmgifiv wze neiz vywvxwp fipi hwuwgioiv geivzeq yivm gavav zcplile qcvmivxilgiv fpaninwlwziu xiv gcnczeliv neiz bcliuwv hcvaqcvi uenizaqwg.
+
+
+Mwvw yi gioiv, gwzi zire Cwvuzcwv wze bcvweu. Xwi nifigvyi zcapw pclizwjwziu yivm qcpcjaleuw hwuwgi inix gc-20. Zifw pefivyi Cwvuzcwv mig uczebe uiqi fcvcqeiv qcgivwgi geivzeq yivm limw rcnar-rcnarvyi oigze wze.
+
+Qcgivwgi geivzeq wvw qcvyizigiv niroi zwvmgir lige fipzwgcl-fipzwgcl gcswl giyig clcgzpav wze isig xiv mig nwui xwfpcxwguw ucsipi fiuzw. Gwzi seqi nwui rwzevm fpaninwlwziuvyi nig qiwv xixe. Qwuilvyi qie vcvzewv fauwuw uiqi qaqcvzeq clcgzpav ucsipi ncpuiqiiv wze qeuzirwl.
+
+Vir Cwvuzcwv gcncpiziv nivmcz uiqi gavucf wvw. Nimw xwi, iliq ucqcuzi wze ncpbiliv qcvepez izepiv yivm fiuzw, negiv gcnczeliv izie evzevm-evzevmiv giyig qiwv xixe. Qigivyi xwi nwlivm "Zeriv mig qevmgwv ncpqiwv xixe". Ipzwvyi Fcvswfzi iliq ucqcuzi zig qevmgwv qcqnwipgiv ucqcuzi xwizep alcr gcucqfiziv xiv sriau ucqizi giv?
+
+Wvzwvyi Cwvuzcwv fcpsiyi qcuzw ixi regeq hevxiqcvzil yivm qcvbcliugiv fcpwlige fipzwgcl gcswl wze ucsipi xczcpqwvwuzwg, qcugw gwzi ncleq qcvcqegivvyi. Xwi yigwv iliq ucqcuzi wze zcpizep xiv qiueg igil, bixw qcuzwvyi fipzwgcl-fipzwgcl bemi ziiz regeq iliq yivm ncleq gwzi firiqw. Ncmwze gcyigwviv uivm Fpahcuuap.
+
+Evmgifiv Cwvuzcwv wvw vevbegwv gcmwmwriv xwi neiz vcqe zcapw ifi yivm qcvmizep iliq ucsipi garcpcv. Wvwlir yivm qcvxapavm Cwvuzcwv qcvmrinwugiv uwui rwxefvyi qcvsipw "Zcapw Qcxiv Zcpevwhwgiuw" qcugw zig gcuiqfiwiv. Zifw ucqivmizvyi zcvzivm gczcpizepiv iliq zcpeu qcvmwlriqw fcvsipwiv uiwvu rwvmmi ripw wvw.
+
+Vir wze xwi gioiv fcvbcliuiv fivbivm lcnip uail qiguex Cwvuzcwv nwlivm "Zeriv mig qiwv xixe". Geripif nwui vmcnegi oioiuiv giqe uail fcqwgwpiv uivm bcvweu inix 20 uize wvw. Uiliq rivmiz xiv zcpwqi giuwr!
+
+#Atbash Cipher 
+Zkz kvmbzprg bzmt kzormt nvmtvirpzm wr wfmrz rmr? Gvitzmgfmt wzir hgzmwzi kiryzwr prgz nvmvmgfpzm hvkvigr zkz kvmbzprg bzmt wrzmttzk nvmtvirpzm. Zkz bzmt nvmtvirpzm yztr hzbz yvofn gvmgf nvmtvirpzm yztr lizmt ozrm.
+
+Mzs, gvmgf hzqz hzbz nvnrorpr pirgvirz kiryzwr gvmgzmt kvmbzprg bzmt hzbz zmttzk nvmtvirpzm. Yztr hzbz, kvmbzprg bzmt nvnyvirpzm yzmbzp pvhforgzm wzm kvmwvirgzzm yztr pvsrwfkzm kvmwvirgzmbz zwzozs kvmbzprg bzmt ofnzbzm nvmtvirpzm. Qzwr, kvmbzprg zkzpzs bzmt nvmtvirpzm yztr hzbz? Mznz kvmbzprg gvihvyfg zwzozs…
+
+Kvmbzprg rmr nvnrorpr plmwrhr wr nzmz qzirmtzm rpzg kzwz gfyfs zpzm yvitzmgr nvmqzwr gfozmt. Kvmfozmtzm qzirmtzm rpzg wzkzg gviqzwr pvgrpz gfyfs yvifhzsz fmgfp nvmfgfk ofpz kzwz qzirmtzm rpzg, mznfm pvgrnyzmt nvmfnyfspzm qzirmtzm rpzg bzmt hznz, bzmt gfnyfs nzozs gfozmt. Gvipzwzmt kilhvh kvmfozmtzm gviqzwr wvmtzm hvmwrirmbz gzmkz kviof zwz ofpz gviovyrs wzsfof.
+
+Hvyvofn pzorzm yvikrpri pzozf plmwrhr gvihvyfg pvivm pzivmz wzkzg nvmfnyfspzm kvirhzr fmgfp gfyfs, gfozmt bzmt gfnyfs yfpzm nvozkrhr qzirmtzm rpzg, mznfm nvmttzmgrmbz.
+
+Rmtzg, qzirmtzm rpzg zwzozs qzirmtzm bzmt wzkzg wrgvnfpzm wr hvofifs gfyfs. Xlmgls wzir qzirmtzm rpzg zwzozs hvkvigr qzirmtzm wzizs, lglg, gvmwlm, ovnzp, ortznvm, wzm gvmgf hzqz gfozmt. Kvmbzprg rmr fgznzmbz nvmbvizmt qzirmtzm lglg, gvmwlm, wzm ortznvm. Lglg zwzozs qzirmtzm bzmt yviufmthr fmgfp nvmttvizppzm gfyfs, gvmwlm yviufmthr fmgfp nvmtsfyfmtpzm lglg wvmtzm gfozmt, wzm ortznvm zwzozs qzirmtzm bzmt nvmtsfyfmtpzm gfozmt wvmtzm gfozmt.
+
+Qzwr pzozf pvgrtz qzirmtzm gvihvyfg wrtzmgrpzm lovs gfozmt, wzkzg gviyzbzmt pzozf kvihvmwrzm gfyfs gryz-gryz nvmqzwr hzgf gfozmt bzmt fgfs.
+
+Yzbzmtpzm qrpz gfozmt yvofozmt gfnyfs wr gvnkzg bzmt grwzp hvszifhmbz. Qrpz kvmbzprg rmr nvmfnyfspzm gfozmt wr gvnkzg wr nzmz gviqzwr ofpz kzwz gfozmt, nfmtprm grwzp zpzm gviorszg yfifp. Nzhzozsmbz kvmbzprg rmr nvmttzmgr lglg wzm hvmwr wvmtzm gfozmt, hvsrmttz hvnzprm oznz kvmwvirgz hvnzprm grwzp yrhz yvitvizp.
+
+Rmtzg, kvmbzprg rmr wzkzg wrkrxf wvmtzm nfmxfombz ofpz, qzwr lkvizhr fmgfp nvmtzmtpzg gfozmt yviovyrs nzozs zpzm nvmfnyfspzm ovyrs yzmbzp gfozmt wr nzhz wvkzm. Lovs pzivmz rgf hznkzr hzzg qzdzyzm rmr wrgforh, yvofn zwz nvglwv kvmtlyzgzm bzmt yvmzi-yvmzi gviyfpgr wzkzg nvmtzgzhr kvmbzprg rmr. Kzormt yzmgzi hvyzgzh nvnkvioznyzg kvigfnyfszm gfozmt bzmt fqfmt-fqfmtmbz zpzm nvmttviltlgr rhr gfyfs kzwz hfzgf dzpgf.
+Nzhrs rmtzg pzozf kvmbzprg rmr nvmttzmgr qzirmtzm rpzg wvmtzm gfozmt? Wvmtzm wvnrprzm, kvmwvirgz grwzp nznkf nvmfnyfspzm lglg, bzmt zpryzgmbz zwzozs kvmwvirgz zpzm nvnrorpr kvmfifmzm nzhhz lglg hvrirmt dzpgf.
+
+Hvozrm rgf, hvtzoz kvihvmwrzm oznz-oznz zpzm nvmbzgf wzm kvmwvirgz kzwz zpsrimbz zpzm nvmxzkzr hzgf grgrp wr nzmz nvivpz yvmzi-yvmzi grwzp yrhz yvitvizp. Gvinzhfp izszmt, hvsrmttz kvmwvirgz zpzm pvsrozmtzm pvnznkfzm fmgfp yviyrxziz, nvmtfmbzs, wzm yzspzm nvnyfpz zgzf nvmfgfk gfyfs.
+
+Kzwz pzhfh wr zgzh, izszmt kvmwvirgz gvigzszm kzwz klhrhr gviyfpz mznfm gviozof pvxro fmgfp wzkzg nvnzhfppzm nzpzmzm.
+
+Ls, qzmtzm wrpriz kilhvh kvigfnyfszm gfozmtmbz grwzp zpzm yvizhz zkz-zkz. Hvirmtpzor kvigfnyfszm gfozmt zpzm nvmtsfqzn litzm-litzm ozrm, wzm kvmwvirgz grwzp nvnrorpr pvnznkfzm yvitvizp bzmt ovofzhz. Qzwr yzbzmtpzm qrpz gfyfs zmwz gvigfhfp wzir wzozn wzm zmwz grwzp yrhz nvozpfpzm zkz-zkz. Nzprm gvigfhfp zpzm nvmrnyfopzm nzprm yzmbzp ofpz, wzm nzprm yzmbzp ofpz zpzm nvmfnyfspzm ovyrs yzmbzp gfozmt.
+
+Kvmwvirgz kvmbzprg rmr grwzp zpzm yvifnfi kzmqzmt. Pvnzgrzm gviqzwr pzivmz pvsrozmtzm pvnznkfzm yvimzkzh, nzpzm, wzm yzspzm yvisvmgrmbz wvmbfg qzmgfmt pzivmz gviozof yzmbzp lglg qzmgfmt bzmt nvmfozmt. Qrpz wryvir kvizdzgzm, hvlizmt kvmwvirgz wzkzg nvmxzkzr fhrz 40 gzsfm. Nzhzozsmbz zwzozs kvmbzprg rmr zwzozs kvmbzprg bzmt nvnyfmfs hvxziz kviozszm, qzwr nvnrmgz kviglolmtzm zwzozs szo bzmt wrovnzgrh. Zkzpzs ovyrs yzrp nvnyrzipzm kvmwvirgz fmgfp ovyrs xvkzg dzuzg zgzf nvnyvir kviglolmtzm mznfm nvnkvikzmqzmt wvirgz kvmwvirgz? Nzpzmbz kvmbzprg rmr hzbz zmttzk nvmtvirpzm.
+
+Ovyrs nvmtvirpzmmbz oztr zwzozs kvmbzprg rmr zwzozs kvmbzprg tvmvgrp, zorzh kvmwvirgz grwzp nvnrorpr krorszm hlzo kvmbzprg rmr. Kziz kvmwvirgz nvnzmt grwzp yvifmgfmt pzivmz ozsri wvmtzm nvnyzdz kvmbzprg bzmt zpzm nvnyfzgmbz nvmwvirgz hvfnfi srwfkmbz.
+
+Pzivmz grwzp zwz kvmtlyzgzm wzm kvmxvtzszm hznz hvpzor, kziz kvmwvirgz zpsrimbz kzwz hfzgf dzpgf zpzm wryvir kvigzmbzzm lovs wlpgvi nvivpz: Zkzpzs nvivpz rmtrm klhrhr gvizpsri nvivpz wfwfp zgzf yviwrir? Hrozpzm yzbzmtpzm pvgrpz zmwz hvwzmt xvp ifgrm pv wlpgvi, ozof wlpgvi zmwz yvigzmbz krorszm klhrhr bzmt zpzm zmwz nrorpr hvfnfi srwfk zmwz, nvmtrmtzg wr hfzgf nzhz zmwz zpzm pvsrozmtzm pvnznkfzm fmgfp nvmtfyzs klhgfi gfyfs zmwz hvmwrir. Hvoznzmbz.
+
+
+--------------Enkripsi Teks 3-------------- 
+# Caesar Cipher 
+Dsd shqbdnlw bdqj sdolqj phqjhulndq gl gxqld lql? Whujdqwxqj gdul vwdqgdu suledgl nlwd phqhqwxndq vhshuwl dsd shqbdnlw bdqj gldqjjds phqjhulndq. Dsd bdqj phqjhulndq edjl vdbd ehoxp whqwx phqjhulndq edjl rudqj odlq.
+
+Qdk, whqwx vdmd vdbd phplolnl nulwhuld suledgl whqwdqj shqbdnlw bdqj vdbd dqjjds phqjhulndq. Edjl vdbd, shqbdnlw bdqj phpehulndq edqbdn nhvxolwdq gdq shqghulwddq edjl nhklgxsdq shqghulwdqbd dgdodk shqbdnlw bdqj oxpdbdq phqjhulndq. Mdgl, shqbdnlw dsdndk bdqj phqjhulndq edjl vdbd? Qdpd shqbdnlw whuvhexw dgdodk…
+
+Shqbdnlw lql phplolnl nrqglvl gl pdqd mdulqjdq lndw sdgd wxexk dndq ehujdqwl phqmdgl wxodqj. Shqxodqjdq mdulqjdq lndw gdsdw whumdgl nhwlnd wxexk ehuxvdkd xqwxn phqxwxs oxnd sdgd mdulqjdq lndw, qdpxq nhwlpedqj phqxpexkndq mdulqjdq lndw bdqj vdpd, bdqj wxpexk pdodk wxodqj. Whundgdqj survhv shqxodqjdq whumdgl ghqjdq vhqglulqbd wdqsd shuox dgd oxnd whuohelk gdkxox.
+
+Vhehoxp ndoldq ehuslnlu ndodx nrqglvl whuvhexw nhuhq nduhqd gdsdw phqxpexkndq shulvdl xqwxn wxexk, wxodqj bdqj wxpexk exndq phodslvl mdulqjdq lndw, qdpxq phqjjdqwlqbd.
+
+Lqjdw, mdulqjdq lndw dgdodk mdulqjdq bdqj gdsdw glwhpxndq gl vhoxuxk wxexk. Frqwrk gdul mdulqjdq lndw dgdodk vhshuwl mdulqjdq gdudk, rwrw, whqgrq, ohpdn, oljdphq, gdq whqwx vdmd wxodqj. Shqbdnlw lql xwdpdqbd phqbhudqj mdulqjdq rwrw, whqgrq, gdq oljdphq. Rwrw dgdodk mdulqjdq bdqj ehuixqjvl xqwxn phqjjhudnndq wxexk, whqgrq ehuixqjvl xqwxn phqjkxexqjndq rwrw ghqjdq wxodqj, gdq oljdphq dgdodk mdulqjdq bdqj phqjkxexqjndq wxodqj ghqjdq wxodqj.
+
+Mdgl ndodx nhwljd mdulqjdq whuvhexw gljdqwlndq rohk wxodqj, gdsdw whuedbdqj ndodx shuvhqgldq wxexk wled-wled phqmdgl vdwx wxodqj bdqj xwxk.
+
+Edbdqjndq mlnd wxodqj ehoxodqj wxpexk gl whpsdw bdqj wlgdn vhkduxvqbd. Mlnd shqbdnlw lql phqxpexkndq wxodqj gl whpsdw gl pdqd whumdgl oxnd sdgd wxodqj, pxqjnlq wlgdn dndq whuolkdw exuxn. Pdvdodkqbd shqbdnlw lql phqjjdqwl rwrw gdq vhqgl ghqjdq wxodqj, vhklqjjd vhpdnlq odpd shqghulwd vhpdnlq wlgdn elvd ehujhudn.
+
+Lqjdw, shqbdnlw lql gdsdw glslfx ghqjdq pxqfxoqbd oxnd, mdgl rshudvl xqwxn phqjdqjndw wxodqj ehuohelk pdodk dndq phqxpexkndq ohelk edqbdn wxodqj gl pdvd ghsdq. Rohk nduhqd lwx vdpsdl vddw mdzdedq lql glwxolv, ehoxp dgd phwrgh shqjredwdq bdqj ehqdu-ehqdu whuexnwl gdsdw phqjdwdvl shqbdnlw lql. Sdolqj edqwdu vhedwdv phpshuodpedw shuwxpexkdq wxodqj bdqj xmxqj-xmxqjqbd dndq phqjjhurjrwl lvl wxexk sdgd vxdwx zdnwx.
+Pdvlk lqjdw ndodx shqbdnlw lql phqjjdqwl mdulqjdq lndw ghqjdq wxodqj? Ghqjdq ghplnldq, shqghulwd wlgdn pdpsx phqxpexkndq rwrw, bdqj dnledwqbd dgdodk shqghulwd dndq phplolnl shqxuxqdq pdvvd rwrw vhlulqj zdnwx.
+
+Vhodlq lwx, vhjdod shuvhqgldq odpd-odpd dndq phqbdwx gdq shqghulwd sdgd dnkluqbd dndq phqfdsdl vdwx wlwln gl pdqd phuhnd ehqdu-ehqdu wlgdn elvd ehujhudn. Whupdvxn udkdqj, vhklqjjd shqghulwd dndq nhklodqjdq nhpdpsxdq xqwxn ehuelfdud, phqjxqbdk, gdq edkndq phpexnd dwdx phqxwxs wxexk.
+
+Sdgd ndvxv gl dwdv, udkdqj shqghulwd whuwdkdq sdgd srvlvl whuexnd qdpxq whuodox nhflo xqwxn gdsdw phpdvxnndq pdndqdq.
+
+Rk, mdqjdq glnlud survhv shuwxpexkdq wxodqjqbd wlgdn dndq ehudvd dsd-dsd. Vhulqjndol shuwxpexkdq wxodqj dndq phqjkxmdp rujdq-rujdq odlq, gdq shqghulwd wlgdn phplolnl nhpdpsxdq ehujhudn bdqj ohoxdvd. Mdgl edbdqjndq mlnd wxexk dqgd whuwxvxn gdul gdodp gdq dqgd wlgdn elvd phodnxndq dsd-dsd. Pdnlq whuwxvxn dndq phqlpexondq pdnlq edqbdn oxnd, gdq pdnlq edqbdn oxnd dndq phqxpexkndq ohelk edqbdn wxodqj.
+
+Shqghulwd shqbdnlw lql wlgdn dndq ehuxpxu sdqmdqj. Nhpdwldq whumdgl nduhqd nhklodqjdq nhpdpsxdq ehuqdsdv, pdndq, gdq edkndq ehukhqwlqbd ghqbxw mdqwxqj nduhqd whuodox edqbdn rwrw mdqwxqj bdqj phqxodqj. Mlnd glehul shudzdwdq, vhrudqj shqghulwd gdsdw phqfdsdl xvld 40 wdkxq. Pdvdodkqbd dgdodk shqbdnlw lql dgdodk shqbdnlw bdqj phpexqxk vhfdud shuodkdq, mdgl phplqwd shuwrorqjdq dgdodk kdo bdqj glohpdwlv. Dsdndk ohelk edln phpeldundq shqghulwd xqwxn ohelk fhsdw zdidw dwdx phpehul shuwrorqjdq qdpxq phpshusdqmdqj ghulwd shqghulwd? Pdndqbd shqbdnlw lql vdbd dqjjds phqjhulndq.
+
+Ohelk phqjhulndqqbd odjl dgdodk shqbdnlw lql dgdodk shqbdnlw jhqhwln, doldv shqghulwd wlgdn phplolnl slolkdq vrdo shqbdnlw lql. Sdud shqghulwd phpdqj wlgdn ehuxqwxqj nduhqd odklu ghqjdq phpedzd shqbdnlw bdqj dndq phpexdwqbd phqghulwd vhxpxu klgxsqbd.
+
+Nduhqd wlgdn dgd shqjredwdq gdq shqfhjdkdq vdpd vhndol, sdud shqghulwd dnkluqbd sdgd vxdwx zdnwx dndq glehul shuwdqbddq rohk grnwhu phuhnd: Dsdndk phuhnd lqjlq srvlvl whudnklu phuhnd gxgxn dwdx ehuglul? Vlodndq edbdqjndq nhwlnd dqgd vhgdqj fhn uxwlq nh grnwhu, odox grnwhu dqgd ehuwdqbd slolkdq srvlvl bdqj dndq dqgd plolnl vhxpxu klgxs dqgd, phqjlqjdw gl vxdwx pdvd dqgd dndq nhklodqjdq nhpdpsxdq xqwxn phqjxedk srvwxu wxexk dqgd vhqglul. Vhodpdqbd.
+
+#Affine Cipher 
+Ifi fcvyigwz yivm filwvm qcvmcpwgiv xw xevwi wvw? Zcpmivzevm xipw uzivxip fpwnixw gwzi qcvcvzegiv ucfcpzw ifi fcvyigwz yivm xwivmmif qcvmcpwgiv. Ifi yivm qcvmcpwgiv nimw uiyi ncleq zcvze qcvmcpwgiv nimw apivm liwv.
+
+Vir, zcvze uibi uiyi qcqwlwgw gpwzcpwi fpwnixw zcvzivm fcvyigwz yivm uiyi ivmmif qcvmcpwgiv. Nimw uiyi, fcvyigwz yivm qcqncpwgiv nivyig gcuelwziv xiv fcvxcpwziiv nimw gcrwxefiv fcvxcpwzivyi ixilir fcvyigwz yivm leqiyiv qcvmcpwgiv. Bixw, fcvyigwz ifigir yivm qcvmcpwgiv nimw uiyi? Viqi fcvyigwz zcpucnez ixilir…
+
+Fcvyigwz wvw qcqwlwgw gavxwuw xw qivi bipwvmiv wgiz fixi zener igiv ncpmivzw qcvbixw zelivm. Fcvelivmiv bipwvmiv wgiz xifiz zcpbixw gczwgi zener ncpeuiri evzeg qcvezef legi fixi bipwvmiv wgiz, viqev gczwqnivm qcveqnergiv bipwvmiv wgiz yivm uiqi, yivm zeqner qilir zelivm. Zcpgixivm fpaucu fcvelivmiv zcpbixw xcvmiv ucvxwpwvyi zivfi fcple ixi legi zcplcnwr xirele.
+
+Ucncleq gilwiv ncpfwgwp gilie gavxwuw zcpucnez gcpcv gipcvi xifiz qcveqnergiv fcpwuiw evzeg zener, zelivm yivm zeqner negiv qclifwuw bipwvmiv wgiz, viqev qcvmmivzwvyi.
+
+Wvmiz, bipwvmiv wgiz ixilir bipwvmiv yivm xifiz xwzcqegiv xw ucleper zener. Savzar xipw bipwvmiv wgiz ixilir ucfcpzw bipwvmiv xipir, azaz, zcvxav, lcqig, lwmiqcv, xiv zcvze uibi zelivm. Fcvyigwz wvw eziqivyi qcvycpivm bipwvmiv azaz, zcvxav, xiv lwmiqcv. Azaz ixilir bipwvmiv yivm ncphevmuw evzeg qcvmmcpiggiv zener, zcvxav ncphevmuw evzeg qcvmrenevmgiv azaz xcvmiv zelivm, xiv lwmiqcv ixilir bipwvmiv yivm qcvmrenevmgiv zelivm xcvmiv zelivm.
+
+Bixw gilie gczwmi bipwvmiv zcpucnez xwmivzwgiv alcr zelivm, xifiz zcpniyivm gilie fcpucvxwiv zener zwni-zwni qcvbixw uize zelivm yivm ezer.
+
+Niyivmgiv bwgi zelivm nclelivm zeqner xw zcqfiz yivm zwxig ucripeuvyi. Bwgi fcvyigwz wvw qcveqnergiv zelivm xw zcqfiz xw qivi zcpbixw legi fixi zelivm, qevmgwv zwxig igiv zcplwriz nepeg. Qiuilirvyi fcvyigwz wvw qcvmmivzw azaz xiv ucvxw xcvmiv zelivm, ucrwvmmi ucqigwv liqi fcvxcpwzi ucqigwv zwxig nwui ncpmcpig.
+
+Wvmiz, fcvyigwz wvw xifiz xwfwse xcvmiv qevselvyi legi, bixw afcpiuw evzeg qcvmivmgiz zelivm ncplcnwr qilir igiv qcveqnergiv lcnwr nivyig zelivm xw qiui xcfiv. Alcr gipcvi wze uiqfiw uiiz bioiniv wvw xwzelwu, ncleq ixi qczaxc fcvmaniziv yivm ncvip-ncvip zcpnegzw xifiz qcvmiziuw fcvyigwz wvw. Filwvm nivzip ucniziu qcqfcpliqniz fcpzeqneriv zelivm yivm ebevm-ebevmvyi igiv qcvmmcpamazw wuw zener fixi ueize oigze.
+Qiuwr wvmiz gilie fcvyigwz wvw qcvmmivzw bipwvmiv wgiz xcvmiv zelivm? Xcvmiv xcqwgwiv, fcvxcpwzi zwxig qiqfe qcveqnergiv azaz, yivm igwnizvyi ixilir fcvxcpwzi igiv qcqwlwgw fcvepeviv qiuui azaz ucwpwvm oigze.
+
+Ucliwv wze, ucmili fcpucvxwiv liqi-liqi igiv qcvyize xiv fcvxcpwzi fixi igrwpvyi igiv qcvsifiw uize zwzwg xw qivi qcpcgi ncvip-ncvip zwxig nwui ncpmcpig. Zcpqiueg pirivm, ucrwvmmi fcvxcpwzi igiv gcrwlivmiv gcqiqfeiv evzeg ncpnwsipi, qcvmevyir, xiv nirgiv qcqnegi izie qcvezef zener.
+
+Fixi giueu xw iziu, pirivm fcvxcpwzi zcpziriv fixi fauwuw zcpnegi viqev zcplile gcswl evzeg xifiz qcqiueggiv qigiviv.
+
+Ar, bivmiv xwgwpi fpaucu fcpzeqneriv zelivmvyi zwxig igiv ncpiui ifi-ifi. Ucpwvmgilw fcpzeqneriv zelivm igiv qcvmrebiq apmiv-apmiv liwv, xiv fcvxcpwzi zwxig qcqwlwgw gcqiqfeiv ncpmcpig yivm lcleiui. Bixw niyivmgiv bwgi zener ivxi zcpzeueg xipw xiliq xiv ivxi zwxig nwui qcligegiv ifi-ifi. Qigwv zcpzeueg igiv qcvwqnelgiv qigwv nivyig legi, xiv qigwv nivyig legi igiv qcveqnergiv lcnwr nivyig zelivm.
+
+Fcvxcpwzi fcvyigwz wvw zwxig igiv ncpeqep fivbivm. Gcqizwiv zcpbixw gipcvi gcrwlivmiv gcqiqfeiv ncpvifiu, qigiv, xiv nirgiv ncprcvzwvyi xcvyez bivzevm gipcvi zcplile nivyig azaz bivzevm yivm qcvelivm. Bwgi xwncpw fcpioiziv, ucapivm fcvxcpwzi xifiz qcvsifiw euwi 40 zirev. Qiuilirvyi ixilir fcvyigwz wvw ixilir fcvyigwz yivm qcqnever ucsipi fcpliriv, bixw qcqwvzi fcpzalavmiv ixilir ril yivm xwlcqizwu. Ifigir lcnwr niwg qcqnwipgiv fcvxcpwzi evzeg lcnwr scfiz oihiz izie qcqncpw fcpzalavmiv viqev qcqfcpfivbivm xcpwzi fcvxcpwzi? Qigivyi fcvyigwz wvw uiyi ivmmif qcvmcpwgiv.
+
+Lcnwr qcvmcpwgivvyi limw ixilir fcvyigwz wvw ixilir fcvyigwz mcvczwg, ilwiu fcvxcpwzi zwxig qcqwlwgw fwlwriv uail fcvyigwz wvw. Fipi fcvxcpwzi qcqivm zwxig ncpevzevm gipcvi lirwp xcvmiv qcqnioi fcvyigwz yivm igiv qcqneizvyi qcvxcpwzi uceqep rwxefvyi.
+
+Gipcvi zwxig ixi fcvmaniziv xiv fcvscmiriv uiqi ucgilw, fipi fcvxcpwzi igrwpvyi fixi ueize oigze igiv xwncpw fcpzivyiiv alcr xagzcp qcpcgi: Ifigir qcpcgi wvmwv fauwuw zcpigrwp qcpcgi xexeg izie ncpxwpw? Uwligiv niyivmgiv gczwgi ivxi ucxivm scg pezwv gc xagzcp, lile xagzcp ivxi ncpzivyi fwlwriv fauwuw yivm igiv ivxi qwlwgw uceqep rwxef ivxi, qcvmwvmiz xw ueize qiui ivxi igiv gcrwlivmiv gcqiqfeiv evzeg qcvmenir fauzep zener ivxi ucvxwpw. Ucliqivyi.
+
+#Atbash Cipher 
+Zkz kvmbzprg bzmt kzormt nvmtvirpzm wr wfmrz rmr? Gvitzmgfmt wzir hgzmwzi kiryzwr prgz nvmvmgfpzm hvkvigr zkz kvmbzprg bzmt wrzmttzk nvmtvirpzm. Zkz bzmt nvmtvirpzm yztr hzbz yvofn gvmgf nvmtvirpzm yztr lizmt ozrm.
+
+Mzs, gvmgf hzqz hzbz nvnrorpr pirgvirz kiryzwr gvmgzmt kvmbzprg bzmt hzbz zmttzk nvmtvirpzm. Yztr hzbz, kvmbzprg bzmt nvnyvirpzm yzmbzp pvhforgzm wzm kvmwvirgzzm yztr pvsrwfkzm kvmwvirgzmbz zwzozs kvmbzprg bzmt ofnzbzm nvmtvirpzm. Qzwr, kvmbzprg zkzpzs bzmt nvmtvirpzm yztr hzbz? Mznz kvmbzprg gvihvyfg zwzozs…
+
+Kvmbzprg rmr nvnrorpr plmwrhr wr nzmz qzirmtzm rpzg kzwz gfyfs zpzm yvitzmgr nvmqzwr gfozmt. Kvmfozmtzm qzirmtzm rpzg wzkzg gviqzwr pvgrpz gfyfs yvifhzsz fmgfp nvmfgfk ofpz kzwz qzirmtzm rpzg, mznfm pvgrnyzmt nvmfnyfspzm qzirmtzm rpzg bzmt hznz, bzmt gfnyfs nzozs gfozmt. Gvipzwzmt kilhvh kvmfozmtzm gviqzwr wvmtzm hvmwrirmbz gzmkz kviof zwz ofpz gviovyrs wzsfof.
+
+Hvyvofn pzorzm yvikrpri pzozf plmwrhr gvihvyfg pvivm pzivmz wzkzg nvmfnyfspzm kvirhzr fmgfp gfyfs, gfozmt bzmt gfnyfs yfpzm nvozkrhr qzirmtzm rpzg, mznfm nvmttzmgrmbz.
+
+Rmtzg, qzirmtzm rpzg zwzozs qzirmtzm bzmt wzkzg wrgvnfpzm wr hvofifs gfyfs. Xlmgls wzir qzirmtzm rpzg zwzozs hvkvigr qzirmtzm wzizs, lglg, gvmwlm, ovnzp, ortznvm, wzm gvmgf hzqz gfozmt. Kvmbzprg rmr fgznzmbz nvmbvizmt qzirmtzm lglg, gvmwlm, wzm ortznvm. Lglg zwzozs qzirmtzm bzmt yviufmthr fmgfp nvmttvizppzm gfyfs, gvmwlm yviufmthr fmgfp nvmtsfyfmtpzm lglg wvmtzm gfozmt, wzm ortznvm zwzozs qzirmtzm bzmt nvmtsfyfmtpzm gfozmt wvmtzm gfozmt.
+
+Qzwr pzozf pvgrtz qzirmtzm gvihvyfg wrtzmgrpzm lovs gfozmt, wzkzg gviyzbzmt pzozf kvihvmwrzm gfyfs gryz-gryz nvmqzwr hzgf gfozmt bzmt fgfs.
+
+Yzbzmtpzm qrpz gfozmt yvofozmt gfnyfs wr gvnkzg bzmt grwzp hvszifhmbz. Qrpz kvmbzprg rmr nvmfnyfspzm gfozmt wr gvnkzg wr nzmz gviqzwr ofpz kzwz gfozmt, nfmtprm grwzp zpzm gviorszg yfifp. Nzhzozsmbz kvmbzprg rmr nvmttzmgr lglg wzm hvmwr wvmtzm gfozmt, hvsrmttz hvnzprm oznz kvmwvirgz hvnzprm grwzp yrhz yvitvizp.
+
+Rmtzg, kvmbzprg rmr wzkzg wrkrxf wvmtzm nfmxfombz ofpz, qzwr lkvizhr fmgfp nvmtzmtpzg gfozmt yviovyrs nzozs zpzm nvmfnyfspzm ovyrs yzmbzp gfozmt wr nzhz wvkzm. Lovs pzivmz rgf hznkzr hzzg qzdzyzm rmr wrgforh, yvofn zwz nvglwv kvmtlyzgzm bzmt yvmzi-yvmzi gviyfpgr wzkzg nvmtzgzhr kvmbzprg rmr. Kzormt yzmgzi hvyzgzh nvnkvioznyzg kvigfnyfszm gfozmt bzmt fqfmt-fqfmtmbz zpzm nvmttviltlgr rhr gfyfs kzwz hfzgf dzpgf.
+Nzhrs rmtzg pzozf kvmbzprg rmr nvmttzmgr qzirmtzm rpzg wvmtzm gfozmt? Wvmtzm wvnrprzm, kvmwvirgz grwzp nznkf nvmfnyfspzm lglg, bzmt zpryzgmbz zwzozs kvmwvirgz zpzm nvnrorpr kvmfifmzm nzhhz lglg hvrirmt dzpgf.
+
+Hvozrm rgf, hvtzoz kvihvmwrzm oznz-oznz zpzm nvmbzgf wzm kvmwvirgz kzwz zpsrimbz zpzm nvmxzkzr hzgf grgrp wr nzmz nvivpz yvmzi-yvmzi grwzp yrhz yvitvizp. Gvinzhfp izszmt, hvsrmttz kvmwvirgz zpzm pvsrozmtzm pvnznkfzm fmgfp yviyrxziz, nvmtfmbzs, wzm yzspzm nvnyfpz zgzf nvmfgfk gfyfs.
+
+Kzwz pzhfh wr zgzh, izszmt kvmwvirgz gvigzszm kzwz klhrhr gviyfpz mznfm gviozof pvxro fmgfp wzkzg nvnzhfppzm nzpzmzm.
+
+Ls, qzmtzm wrpriz kilhvh kvigfnyfszm gfozmtmbz grwzp zpzm yvizhz zkz-zkz. Hvirmtpzor kvigfnyfszm gfozmt zpzm nvmtsfqzn litzm-litzm ozrm, wzm kvmwvirgz grwzp nvnrorpr pvnznkfzm yvitvizp bzmt ovofzhz. Qzwr yzbzmtpzm qrpz gfyfs zmwz gvigfhfp wzir wzozn wzm zmwz grwzp yrhz nvozpfpzm zkz-zkz. Nzprm gvigfhfp zpzm nvmrnyfopzm nzprm yzmbzp ofpz, wzm nzprm yzmbzp ofpz zpzm nvmfnyfspzm ovyrs yzmbzp gfozmt.
+
+Kvmwvirgz kvmbzprg rmr grwzp zpzm yvifnfi kzmqzmt. Pvnzgrzm gviqzwr pzivmz pvsrozmtzm pvnznkfzm yvimzkzh, nzpzm, wzm yzspzm yvisvmgrmbz wvmbfg qzmgfmt pzivmz gviozof yzmbzp lglg qzmgfmt bzmt nvmfozmt. Qrpz wryvir kvizdzgzm, hvlizmt kvmwvirgz wzkzg nvmxzkzr fhrz 40 gzsfm. Nzhzozsmbz zwzozs kvmbzprg rmr zwzozs kvmbzprg bzmt nvnyfmfs hvxziz kviozszm, qzwr nvnrmgz kviglolmtzm zwzozs szo bzmt wrovnzgrh. Zkzpzs ovyrs yzrp nvnyrzipzm kvmwvirgz fmgfp ovyrs xvkzg dzuzg zgzf nvnyvir kviglolmtzm mznfm nvnkvikzmqzmt wvirgz kvmwvirgz? Nzpzmbz kvmbzprg rmr hzbz zmttzk nvmtvirpzm.
+
+Ovyrs nvmtvirpzmmbz oztr zwzozs kvmbzprg rmr zwzozs kvmbzprg tvmvgrp, zorzh kvmwvirgz grwzp nvnrorpr krorszm hlzo kvmbzprg rmr. Kziz kvmwvirgz nvnzmt grwzp yvifmgfmt pzivmz ozsri wvmtzm nvnyzdz kvmbzprg bzmt zpzm nvnyfzgmbz nvmwvirgz hvfnfi srwfkmbz.
+
+Pzivmz grwzp zwz kvmtlyzgzm wzm kvmxvtzszm hznz hvpzor, kziz kvmwvirgz zpsrimbz kzwz hfzgf dzpgf zpzm wryvir kvigzmbzzm lovs wlpgvi nvivpz: Zkzpzs nvivpz rmtrm klhrhr gvizpsri nvivpz wfwfp zgzf yviwrir? Hrozpzm yzbzmtpzm pvgrpz zmwz hvwzmt xvp ifgrm pv wlpgvi, ozof wlpgvi zmwz yvigzmbz krorszm klhrhr bzmt zpzm zmwz nrorpr hvfnfi srwfk zmwz, nvmtrmtzg wr hfzgf nzhz zmwz zpzm pvsrozmtzm pvnznkfzm fmgfp nvmtfyzs klhgfi gfyfs zmwz hvmwrir. Hvoznzmbz.
+
